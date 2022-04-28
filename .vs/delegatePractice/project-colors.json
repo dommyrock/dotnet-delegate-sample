@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac5581ab-01df-4d51-90b4-3164a38631be": {
+      "ProjectGuid": "ac5581ab-01df-4d51-90b4-3164a38631be",
+      "DisplayName": "delegatePractice",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9f314445-6159-419b-bf65-65c18f5136f3": {
+      "ProjectGuid": "9f314445-6159-419b-bf65-65c18f5136f3",
+      "DisplayName": "WebAppExpressions",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GVheSacmjw64bLdbjA4f2vikfIqbcM+W4ybFWF8zM/BslfDo/E9EfB0EmKRFZn2RFUaN3dnUVm0R4fAHkKyvAw==",
+  "success": true,
+  "projectFilePath": "D:\\Me\\Projects\\delegatePractice\\delegatePractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

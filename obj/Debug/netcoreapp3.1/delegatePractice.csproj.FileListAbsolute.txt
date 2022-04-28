@@ -1,0 +1,14 @@
+D:\Me\Projects\delegatePractice\bin\Debug\netcoreapp3.1\delegatePractice.exe
+D:\Me\Projects\delegatePractice\bin\Debug\netcoreapp3.1\delegatePractice.deps.json
+D:\Me\Projects\delegatePractice\bin\Debug\netcoreapp3.1\delegatePractice.runtimeconfig.json
+D:\Me\Projects\delegatePractice\bin\Debug\netcoreapp3.1\delegatePractice.runtimeconfig.dev.json
+D:\Me\Projects\delegatePractice\bin\Debug\netcoreapp3.1\delegatePractice.dll
+D:\Me\Projects\delegatePractice\bin\Debug\netcoreapp3.1\delegatePractice.pdb
+D:\Me\Projects\delegatePractice\obj\Debug\netcoreapp3.1\delegatePractice.csproj.AssemblyReference.cache
+D:\Me\Projects\delegatePractice\obj\Debug\netcoreapp3.1\delegatePractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\Projects\delegatePractice\obj\Debug\netcoreapp3.1\delegatePractice.AssemblyInfoInputs.cache
+D:\Me\Projects\delegatePractice\obj\Debug\netcoreapp3.1\delegatePractice.AssemblyInfo.cs
+D:\Me\Projects\delegatePractice\obj\Debug\netcoreapp3.1\delegatePractice.csproj.CoreCompileInputs.cache
+D:\Me\Projects\delegatePractice\obj\Debug\netcoreapp3.1\delegatePractice.dll
+D:\Me\Projects\delegatePractice\obj\Debug\netcoreapp3.1\delegatePractice.pdb
+D:\Me\Projects\delegatePractice\obj\Debug\netcoreapp3.1\delegatePractice.genruntimeconfig.cache
